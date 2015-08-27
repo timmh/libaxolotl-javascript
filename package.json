@@ -46,7 +46,7 @@
     "type": "git",
     "url": "http://github.com/joebandenburg/libaxolotl-javascript.git"
   },
-  "dependencies": {
+  "peerDependencies": {
     "axolotl-crypto": "^1.1.0",
     "protobufjs": "~3.8.2",
     "traceur": "0.0.84"
