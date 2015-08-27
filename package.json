@@ -2,7 +2,7 @@
   "name": "axolotl",
   "version": "1.3.0",
   "description": "An indepedent JavaScript implementation of Axolotl. Axolotl is a ratcheting forward secrecy protocol.",
-  "main": "dist/axolotl.js",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
